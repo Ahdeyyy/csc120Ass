@@ -1,0 +1,16 @@
+a) Passing a arguments by value creates a copy within the scope of the function and any changes
+made to the value does not affect the original variable value, while passing by reference does not
+create a new copy and any changes made to it within the function scope affects the original
+variable value.
+
+b) The rand function generates a random number between 0 and RAND_MAX which is at least
+32767, it is defined in the <stdlib.h> header.
+
+c) A program can be randomized by passing a seed value before calling the rand function the current
+time would be used as a the seed value, the value produced by the rand function can be scaled by
+finding the modulus of the returned number with the scaling factor, shifting can be achieved
+by adding the amount we want to shift to the number produced by rand.
+
+d) A recursive function is a function that calls itself and a base case is the condition to be met
+in a recursive function to stop its recursive thus allowing the function to produce a result.
+

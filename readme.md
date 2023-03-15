@@ -4,6 +4,7 @@
 
 - Oladayo-A
 - Fabsthedev
+- whizkid
 
 ## scripts
 
@@ -26,4 +27,16 @@
 - 4.20: Truth table
 
 
+## chapter 5
 
+- 5.10: Rounding numbers ceil function
+- 5.11: Rounding numbers floor function
+- 5.12: 5-12.txt
+- 5.13: 5-13
+- 5.14: 5-14
+- 5.15: Hypotenuse calculations
+- 5.16: Sides of a triangle
+- 5.17: Sides of a right triangle
+- 5.18: Even or odd
+- 5.19: Rectangle of asterisks
+- 5.20: Rectangle of any character

@@ -67,6 +67,63 @@ case $chapter in
         echo " "
         
         ;;
+    5.10)
+        echo "chapter 5.10"
+        echo " "
+        ./roundingNumbersCeil
+        ;;
+    5.11)
+        echo "chapter 5.11"
+        echo " "
+        ./roundingNumbersFloor
+        ;;
+    5.12)
+        echo "chapter 5.12"
+        echo " "
+        cat ./5-12.txt
+        ;;
+    5.13)
+        echo "chapter 5.13"
+        echo " "
+        ./5-13
+        ;;
+    5.14)
+        echo "chapter 5.14"
+        echo " "
+        ./5-14
+        ;;
+    5.15)
+        echo "chapter 5.15"
+        echo " "
+        ./hypotenuseCalculations
+        ;;
+    5.16)
+        echo "chapter 5.16"
+        echo " "
+        ./sidesOfaTriangle
+        ;;
+    5.17)
+        echo "chapter 5.17"
+        echo " "
+        ./sidesOfaRightTriangle
+        ;;
+    5.18)
+        echo "chapter 5.18"
+        echo " "
+        ./evenOrOdd
+        ;;
+    5.19)
+        echo "chapter 5.19"
+        echo " "
+        ./rectangleOfAsterisks
+        ;;
+    5.20)
+        echo "chapter 5.20"
+        echo " "
+        ./rectangleOfCharacters
+        ;;
+
+
     *)
         echo "Not a valid chapter."
         ;;
