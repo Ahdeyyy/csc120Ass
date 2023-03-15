@@ -5,6 +5,8 @@
 - Oladayo-A
 - Fabsthedev
 - whizkid
+- ahdeyy
+- letam
 
 ## scripts
 
