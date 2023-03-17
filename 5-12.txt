@@ -7,10 +7,10 @@ b) The rand function generates a random number between 0 and RAND_MAX which is a
 32767, it is defined in the <stdlib.h> header.
 
 c) A program can be randomized by passing a seed value before calling the rand function the current
-time would be used as a the seed value, the value produced by the rand function can be scaled by
+time would be used as the seed value, the value produced by the rand function can be scaled by
 finding the modulus of the returned number with the scaling factor, shifting can be achieved
 by adding the amount we want to shift to the number produced by rand.
 
 d) A recursive function is a function that calls itself and a base case is the condition to be met
-in a recursive function to stop its recursive thus allowing the function to produce a result.
+in a recursive function to stop its recursion thus allowing the function to produce a result.
 

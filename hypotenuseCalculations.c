@@ -32,7 +32,7 @@ double hypotenuse(double side1, double side2) {
 
   double sum_of_sides_square;
   sum_of_sides_square = 0.0;
-  sum_of_sides_square = pow(side1, 2.0) * pow(side2, 2.0);
+  sum_of_sides_square = pow(side1, 2.0) + pow(side2, 2.0);
 
   return sqrt(sum_of_sides_square);
 }
