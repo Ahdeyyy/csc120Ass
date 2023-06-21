@@ -28,7 +28,6 @@
 - 4.19: Calculating sales
 - 4.20: Truth table
 
-
 ## chapter 5
 
 - 5.10: Rounding numbers ceil function
